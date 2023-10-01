@@ -6,6 +6,8 @@ I'm a web developer
 
 My passion for software is coming up with ideas and bringing them to life through elegant interfaces. I am very careful about the experience, architecture and code quality of what I create. I'm also an open-source enthusiast and maintainer. I've learned a lot from the open source community and love how collaboration and knowledge sharing happens through open source.
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 * 🌍  I live in Moscow
 * 🖥️  See my portfolio at [My portfolio](http://portfolio-gamma-fawn-96.vercel.app/)
 * ✉️  You can contact me at [arlan.abkeyev@mail.](mailto:arlan.abkeyev@mail.ru)
