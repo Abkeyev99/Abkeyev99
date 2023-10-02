@@ -19,11 +19,11 @@ My passion for software is coming up with ideas and bringing them to life throug
 </p>
 
 ### Socials
-<p></a> <a href="https://www.instagram.com/abkeyev_a_w/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p> <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow"> <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<p></a> <a href="https://www.instagram.com/abkeyev_a_w/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p> 
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Arlan%20Abkeyev/badges/large)
+<p> ![codewars](https://www.codewars.com/users/Arlan%20Abkeyev/badges/large)  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow"> <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a></p> 
 
 ### ⚙️ GitHub статистика:
 
