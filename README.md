@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋!  My name is Arlan Abkeyev</h1>
 
 
-<h1 align="center">I'm a web developer</h3>
+<h1 align="center">I'm a frontend developer</h3>
 
 My passion for software is coming up with ideas and bringing them to life through elegant interfaces. I am very careful about the experience, architecture and code quality of what I create. I'm also an open-source enthusiast and maintainer. I've learned a lot from the open source community and love how collaboration and knowledge sharing happens through open source.
 
