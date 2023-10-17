@@ -9,7 +9,7 @@ My passion for software is coming up with ideas and bringing them to life throug
 
 * 🌍  I live in Moscow
 * 🖥️  See my portfolio at [My portfolio](http://portfolio-gamma-fawn-96.vercel.app/)
-* ✉️  You can contact me at [arlan.abkeyev@mail.](mailto:arlan.abkeyev@mail.ru)
+* ✉️  You can contact me at [arlan.abkeyev@mail.ru](mailto:arlan.abkeyev@mail.ru)
 
 ### Skills
 
