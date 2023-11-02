@@ -1,5 +1,5 @@
 <a href="https://github.com/Nomes77/Nomes77/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&reversal=true&text=Hi%20there&fontSize=48&fontAlignY=35&height=150" width="100%" align="center"></img>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&reversal=true&text=Hi%20there&fontSize=48&fontAlignY=35&height=150" width="100%" align="center"></img>
 </a>
 
 
