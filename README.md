@@ -18,7 +18,7 @@
 </p>
 
 ### Socials
-<p></a> <a href="https://www.instagram.com/abkeyev_a_w/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p> 
+<p></a> <a href="https://www.instagram.com/abkeyev_a_w/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p> [![Telegram Badge](https://img.shields.io/badge/-abkeyev_a_w-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abkeyev_a_w) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:arlan.abkeyev@gmail.com)
 
 ### 💻 Codewars:
 
