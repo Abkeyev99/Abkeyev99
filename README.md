@@ -1,8 +1,8 @@
-<h1 align="center">Hi👋! 𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐀𝐫𝐥𝐚𝐧 𝐀𝐛𝐤𝐞𝐲𝐞𝐯</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#008000&section=header&reversal=true&text=𝐇𝐢%20𝐭𝐡𝐞𝐫𝐞👋!&fontSize=48&fontAlignY=35&height=150" width="100%" align="center"></img>
 
 <h1 align="center">𝐈'𝐦 𝐚 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
+𝐈'𝐦 𝐚 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 
 ᴍʏ ᴘᴀssɪᴏɴ ꜰᴏʀ sᴏꜰᴛᴡᴀʀᴇ ɪs ᴄᴏᴍɪɴɢ ᴜᴘ ᴡɪᴛʜ ɪᴅᴇᴀs ᴀɴᴅ ʙʀɪɴɢɪɴɢ ᴛʜᴇᴍ ᴛᴏ ʟɪꜰᴇ ᴛʜʀᴏᴜɢʜ ᴇʟᴇɢᴀɴᴛ ɪɴᴛᴇʀꜰᴀᴄᴇs. ɪ ᴀᴍ ᴠᴇʀʏ ᴄᴀʀᴇꜰᴜʟ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ᴄᴏᴅᴇ ǫᴜᴀʟɪᴛʏ ᴏꜰ ᴡʜᴀᴛ ɪ ᴄʀᴇᴀᴛᴇ. ɪ'ᴍ ᴀʟsᴏ ᴀɴ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴇɴᴛʜᴜsɪᴀsᴛ ᴀɴᴅ ᴍᴀɪɴᴛᴀɪɴᴇʀ. ɪ'ᴠᴇ ʟᴇᴀʀɴᴇᴅ ᴀ ʟᴏᴛ ꜰʀᴏᴍ ᴛʜᴇ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴀɴᴅ ʟᴏᴠᴇ ʜᴏᴡ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀɴᴅ ᴋɴᴏᴡʟᴇᴅɢᴇ sʜᴀʀɪɴɢ ʜᴀᴘᴘᴇɴs ᴛʜʀᴏᴜɢʜ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -18,7 +18,7 @@
 </p>
 
 ### Socials
-<p></a> <a href="https://www.instagram.com/abkeyev_a_w/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p> [![Telegram Badge](https://img.shields.io/badge/-abkeyev_a_w-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abkeyev_a_w) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:arlan.abkeyev@gmail.com)
+<p></a> <a href="https://www.instagram.com/abkeyev_a_w/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 ### 💻 Codewars:
 
