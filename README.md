@@ -1,15 +1,15 @@
-<h1 align="center">Hi👋!  My name is Arlan Abkeyev</h1>
+<h1 align="center">Hi👋! 𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐀𝐫𝐥𝐚𝐧 𝐀𝐛𝐤𝐞𝐲𝐞𝐯</h1>
 
 
-<h1 align="center">I'm a frontend developer</h3>
+<h1 align="center">𝐈'𝐦 𝐚 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
-My passion for software is coming up with ideas and bringing them to life through elegant interfaces. I am very careful about the experience, architecture and code quality of what I create. I'm also an open-source enthusiast and maintainer. I've learned a lot from the open source community and love how collaboration and knowledge sharing happens through open source.
+ᴍʏ ᴘᴀssɪᴏɴ ꜰᴏʀ sᴏꜰᴛᴡᴀʀᴇ ɪs ᴄᴏᴍɪɴɢ ᴜᴘ ᴡɪᴛʜ ɪᴅᴇᴀs ᴀɴᴅ ʙʀɪɴɢɪɴɢ ᴛʜᴇᴍ ᴛᴏ ʟɪꜰᴇ ᴛʜʀᴏᴜɢʜ ᴇʟᴇɢᴀɴᴛ ɪɴᴛᴇʀꜰᴀᴄᴇs. ɪ ᴀᴍ ᴠᴇʀʏ ᴄᴀʀᴇꜰᴜʟ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ᴄᴏᴅᴇ ǫᴜᴀʟɪᴛʏ ᴏꜰ ᴡʜᴀᴛ ɪ ᴄʀᴇᴀᴛᴇ. ɪ'ᴍ ᴀʟsᴏ ᴀɴ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴇɴᴛʜᴜsɪᴀsᴛ ᴀɴᴅ ᴍᴀɪɴᴛᴀɪɴᴇʀ. ɪ'ᴠᴇ ʟᴇᴀʀɴᴇᴅ ᴀ ʟᴏᴛ ꜰʀᴏᴍ ᴛʜᴇ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴀɴᴅ ʟᴏᴠᴇ ʜᴏᴡ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴀɴᴅ ᴋɴᴏᴡʟᴇᴅɢᴇ sʜᴀʀɪɴɢ ʜᴀᴘᴘᴇɴs ᴛʜʀᴏᴜɢʜ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-* 🌍  I live in Moscow
-* 🖥️  See my portfolio at [My portfolio](http://portfolio-gamma-fawn-96.vercel.app/)
-* ✉️  You can contact me at [arlan.abkeyev@mail.ru](mailto:arlan.abkeyev@mail.ru)
+* 🌍  ɪ ʟɪᴠᴇ ɪɴ ᴍᴏsᴄᴏᴡ
+* 🖥️  sᴇᴇ ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ ᴀᴛ [ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ](http://portfolio-gamma-fawn-96.vercel.app/)
+* ✉️   ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴀᴛ [arlan.abkeyev@mail.ru](mailto:arlan.abkeyev@mail.ru)
 
 ### Skills
 
